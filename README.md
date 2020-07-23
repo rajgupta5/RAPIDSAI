@@ -9,6 +9,6 @@ Suite of Libraries for accelerating Data Science
 - cuml for GPU ML Library [https://github.com/rapidsai/cuml]
 - cudnn for GPU Deep Learning Library
 
-** Community Notebooks**
+**Community Notebooks**
 - https://github.com/rapidsai/notebooks-contrib
 
