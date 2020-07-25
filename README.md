@@ -1,4 +1,4 @@
-# rapidsai
+# RAPIDSAI
 
 **RAPIDS AI**
 Suite of Libraries for accelerating Data Science
